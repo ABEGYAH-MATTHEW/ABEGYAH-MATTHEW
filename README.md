@@ -63,7 +63,7 @@ If you have any questions or suggestions, feel free to reach out:
 
 ## Acknowledgments
 Thanks to MySQL Workbench for providing the environment to build and manage the database.
-Any resources, tutorials, or tools you found helpful can be acknowledged here.
+
 
 
 
